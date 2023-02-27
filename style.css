@@ -148,3 +148,7 @@ input:checked + .slider{
 input:checked + .slider:before{
    transform: translate(27px);
 }
+.indicators{
+    min-width: 500px;
+    text-align: center;
+}
